@@ -1,6 +1,6 @@
 # App de Clima
 
-**This app was maded to study a new Programming language: Elixir**
+**This app was made to study a new Programming language: Elixir**
 
 ## Installation
 
